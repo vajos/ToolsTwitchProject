@@ -4,10 +4,10 @@ This repository contains libraries and tools for the Twitch Tools Project, speci
 
 ## Tools and Libraries
 
-- [**FFmpeg**](https://github.com/FFmpeg/FFmpeg): A multimedia framework used for cutting and concatenating video.
-- [**Tesseract**](https://github.com/tesseract-ocr/tesseract): An Optical Character Recognition (OCR) engine that converts images to text.
-- [**TwitchDownloader**](https://github.com/lay295/TwitchDownloader): A tool for downloading chat and VODs from Twitch.tv.
-- [**Obsidian**](https://github.com/Crauzer/Obsidian): A utility for extracting League of Legends in-game assets, such as images for scanning kills or champions.
+- [**FFmpeg**](https://github.com/FFmpeg/FFmpeg) v6.0: A multimedia framework used for cutting and concatenating video.
+- [**Tesseract**](https://github.com/tesseract-ocr/tesseract) v5.3.0: An Optical Character Recognition (OCR) engine that converts images to text.
+- [**TwitchDownloader**](https://github.com/lay295/TwitchDownloader) v1.52.3: A tool for downloading chat and VODs from Twitch.tv.
+- [**Obsidian**](https://github.com/Crauzer/Obsidian) v5.0.1: A utility for extracting League of Legends in-game assets, such as images for scanning kills or champions.
 - [**TexDDS**](https://github.com/Morilli/Ritoddstex): A tool for converting Obsidian .tex files into .dds format.
 
 ## Instructions
